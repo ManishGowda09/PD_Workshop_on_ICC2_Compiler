@@ -2,7 +2,7 @@
 
 Physical Design (PD) Workshop
 
-> Hands-on learning repository covering the complete ASIC Physical Design flow using **Synopsys IC Compiler II (ICC2)**.
+Hands-on learning repository covering the complete ASIC Physical Design flow using **Synopsys IC Compiler II (ICC2)**.
 
 ---
 
@@ -104,8 +104,4 @@ GDSII Generation
 
 ---
 
-
-
-Electronics & Communication Engineering Student
-
-Interested in **VLSI • ASIC Physical Design • Digital Design**
+<img width="1416" height="842" alt="Screenshot 2026-07-10 161511" src="https://github.com/user-attachments/assets/0eee2a63-d9fe-4021-90fb-3b0e5c76bc56" />
