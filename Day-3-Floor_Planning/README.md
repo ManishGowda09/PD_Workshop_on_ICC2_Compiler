@@ -285,4 +285,4 @@ The next stage focuses on placing standard cells within the floorplan while opti
 
 ⬅️ [Day-2-Design_Planning](../Day-2-Design_Planning/)
 
-➡️ [Day 4 - Placement](../Day-4-Placement/)
+➡️ [Day-4-Placement](../Day-4-Placement/)
