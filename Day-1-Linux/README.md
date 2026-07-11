@@ -243,7 +243,7 @@ Linux is used throughout the ASIC design flow for:
 
 The next module introduces Design Planning, where chip dimensions, utilization, and floorplan constraints are established before placement and routing.
 
-## 📚 Workshop Navigation
+# 📚 Workshop Navigation
 
 ➡️ [Day-2-Design_Planning](../Day-2-Design_Planning/)
 
