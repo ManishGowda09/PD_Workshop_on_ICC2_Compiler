@@ -288,5 +288,3 @@ This workshop strengthened my understanding of backend VLSI design and industry-
 ## 📚 Workshop Navigation
 
 ⬅️ [Day-4-Placement](../Day-4-Placement/)
-
-🏠 [Back to Main Repository](../)
