@@ -264,4 +264,8 @@ During the lab session, the following tasks were performed:
 ➡️ **Day 3 – Floorplanning**
 
 The next session focuses on Floorplanning, where the chip layout is refined by placing macros, creating the power distribution network (PDN), and preparing the design for standard-cell placement.
-💡 Tip for Your Repository
+## 📚 Workshop Navigation
+
+⬅️ [Day-1-Linux](../Day-1-Linux/)
+
+➡️ [Day-3-Floor_Planning](../Day-3-Floor_Planning/)
