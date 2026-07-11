@@ -1,6 +1,6 @@
 # 🏢 Day 3 - Floorplanning
 
-> Floorplanning is one of the most critical stages in ASIC Physical Design. It defines the physical layout of the chip by determining the core area, placing macros, planning power distribution, and allocating routing resources before standard-cell placement.
+Floorplanning is one of the most critical stages in ASIC Physical Design. It defines the physical layout of the chip by determining the core area, placing macros, planning power distribution, and allocating routing resources before standard-cell placement.
 
 ---
 
